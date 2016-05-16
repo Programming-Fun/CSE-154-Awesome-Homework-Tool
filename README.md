@@ -38,3 +38,5 @@ If you wish to rename the script, you can start it by typing the new name in cmd
 -You don't need to type out the entire file path every time. That would defeat the purpose. You can just start your file path with 'def' and the program
 
 will assume you want to submit from the homework folder. If you don't specify a path aside from def, the program will look in its current directory
+
+e.g. def\hw6 -u
