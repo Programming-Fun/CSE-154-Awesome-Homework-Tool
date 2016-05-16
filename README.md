@@ -33,6 +33,4 @@ This tool was a side project I started because I'm lazy and like my menial tasks
 
 * If you already have a script.bat in your user folder, overwrite it AT YOUR OWN RISK. I would highly advise you to rename one or the other.
 
-* You don't need to type out the entire file path every time. That would defeat the purpose. You can just start your file path with 'def' and the program
-
-* will assume you want to submit from the homework folder. If you don't specify a path aside from def, the program will look in its current directory e.g. def\hw6 -u
+* You don't need to type out the entire file path every time. That would defeat the purpose. You can just start your file path with 'def' and the program will assume you want to submit from the homework folder. If you don't specify a path aside from def, the program will look in its current directory e.g. def\hw6 -u
