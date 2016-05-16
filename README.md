@@ -8,7 +8,7 @@ This tool was a side project I started because I'm lazy and like my menial tasks
 
 ##**HOW TO USE**
 
-Step 1. Open homeworktool.txt and type the following IN ORDER
+* Step 1. Open homeworktool.txt and type the following IN ORDER
 
         - UW Net ID
         
@@ -17,15 +17,15 @@ Step 1. Open homeworktool.txt and type the following IN ORDER
         - the directory you store all of your homework in. For example, D:\mystuff\CSE 154\homework. This should have inside of it all of the folders hw1, hw2, hw..
         Make sure you save your credentials here. You can always update them if you need to.
 
-Step 2. Extract script.bat to C:\Users\<your user>\
+* Step 2. Extract script.bat to C:\Users\<your user>\
 
-Step 3. Press windows+R, type cmd, then type 'script'. This will start the homework tool
+* Step 3. Press windows+R, type cmd, then type 'script'. This will start the homework tool
 
-Step 4. Explore the commands. Use 'help' for info on what you can do specifically.
+* Step 4. Explore the commands. Use 'help' for info on what you can do specifically.
 
-Step 5. ?????
+* Step 5. ?????
 
-Step 6. PROFIT!
+* Step 6. PROFIT!
 
 ##**NOTES**
 
