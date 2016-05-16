@@ -27,7 +27,7 @@ This tool was a side project I started because I'm lazy and like my menial tasks
 
 * Step 6. PROFIT!
 
-##**NOTES**
+## **NOTES**
 
 * In step 2, adding the script to this folder enables you to run the script from command line just by typing 'script'. If you wish to rename the script, you can start it by typing the new name in cmd
 
