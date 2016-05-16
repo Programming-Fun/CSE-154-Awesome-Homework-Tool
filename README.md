@@ -1,12 +1,12 @@
-*THIS PROGRAM COMES WITH NO WARRANTY. I AM NOT LIABLE FOR ANY ERRORS THE PROGRAM ENCOUNTERS. 
+##**THIS PROGRAM COMES WITH NO WARRANTY. I AM NOT LIABLE FOR ANY ERRORS THE PROGRAM ENCOUNTERS.**
 
-SAVE OFTEN AND MAKE BACKUPS.*
+##**SAVE OFTEN AND MAKE BACKUPS.**
 
 That being said, you can always create an issue on gitlab --> https://gitlab.com/zachbryant/CSE-154-Awesome-Homework-Tool
 
 This tool was a side project I started because I'm lazy and like my menial tasks to be done for me.
 
-*HOW TO USE*
+##**HOW TO USE**
 
 Step 1. Open homeworktool.txt and type the following IN ORDER
 
@@ -27,7 +27,7 @@ Step 5. ?????
 
 Step 6. PROFIT!
 
-NOTES
+##**NOTES**
 
 -In step 2, adding the script to this folder enables you to run the script from command line just by typing 'script'. 
 
