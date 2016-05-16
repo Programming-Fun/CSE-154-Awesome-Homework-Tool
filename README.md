@@ -1,12 +1,12 @@
-##**THIS PROGRAM COMES WITH NO WARRANTY. I AM NOT LIABLE FOR ANY ERRORS THE PROGRAM ENCOUNTERS.**
+## **THIS PROGRAM COMES WITH NO WARRANTY. I AM NOT LIABLE FOR ANY ERRORS THE PROGRAM ENCOUNTERS.**
 
-##**SAVE OFTEN AND MAKE BACKUPS.**
+## **SAVE OFTEN AND MAKE BACKUPS.**
 
 That being said, you can always create an issue on gitlab --> https://gitlab.com/zachbryant/CSE-154-Awesome-Homework-Tool
 
 This tool was a side project I started because I'm lazy and like my menial tasks to be done for me.
 
-##**HOW TO USE**
+## **HOW TO USE**
 
 * Step 1. Open homeworktool.txt and type the following IN ORDER
 
@@ -29,14 +29,10 @@ This tool was a side project I started because I'm lazy and like my menial tasks
 
 ##**NOTES**
 
--In step 2, adding the script to this folder enables you to run the script from command line just by typing 'script'. 
+* In step 2, adding the script to this folder enables you to run the script from command line just by typing 'script'. If you wish to rename the script, you can start it by typing the new name in cmd
 
-If you wish to rename the script, you can start it by typing the new name in cmd
+* If you already have a script.bat in your user folder, overwrite it AT YOUR OWN RISK. I would highly advise you to rename one or the other.
 
--If you already have a script.bat in your user folder, overwrite it AT YOUR OWN RISK. I would highly advise you to rename one or the other.
+* You don't need to type out the entire file path every time. That would defeat the purpose. You can just start your file path with 'def' and the program
 
--You don't need to type out the entire file path every time. That would defeat the purpose. You can just start your file path with 'def' and the program
-
-will assume you want to submit from the homework folder. If you don't specify a path aside from def, the program will look in its current directory
-
-e.g. def\hw6 -u
+* will assume you want to submit from the homework folder. If you don't specify a path aside from def, the program will look in its current directory e.g. def\hw6 -u
